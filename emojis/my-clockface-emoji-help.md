@@ -1,8 +1,6 @@
-# My_clockface_Fitbit
+# My_clockface_Fitbit 
 
-# Supported emojis ✅ | Fitbit - My clockface
-
-### Verified emojis in 'my-clockface' fitbit app.
+### Verified Supported ✅ emojis in 'my-clockface' - fitbit app.
 
 Open/Install **My clockface Fitbit mobile app** here [My Clockface - Fitbit app] go to `Settings`
 
