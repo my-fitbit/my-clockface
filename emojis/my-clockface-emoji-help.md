@@ -11,6 +11,10 @@ Open/Install **My clockface Fitbit mobile app** here [My Clockface - Fitbit app]
 |I ♥ emojis| ✂ the fat| |
 |It may ☔ today ❗ | Finally 10k ✌ ❗ |
 |⏰ submit application| Start run now ⌛ |
+|✋ its HOT outside| ⚡ up & run now ⌛ |
+|➰ clear-night ➿| ☔ gonna rain ☪  |
+|⏯ Re-start | ⛱ beach time ✨ |
+
 
 ---
 
